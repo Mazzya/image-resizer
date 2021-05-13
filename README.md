@@ -1,8 +1,7 @@
 # Image Resizer
 ![Image Resizer](https://img.freepik.com/vecteurs-libre/beau-colibri-volant-element-conception-pour-bannieres-affiches-depliants-brochures_1262-13457.jpg?size=338&ext=jpg)
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mazzya/image-resizer?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/mazzya/image-resizer?style=for-the-badge)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/Mazzya/image-resizer/blob/main/CHANGELOG.md) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mazzya/image-resizer?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/mazzya/image-resizer?style=for-the-badge)
 
 Image Resizer it is a script that allows you to quickly resize images of all kinds and without installing practically anything.
 This script uses the pillow library which is a fork of the famous Python Image Library project to do all the magic!
