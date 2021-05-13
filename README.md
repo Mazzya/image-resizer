@@ -1,5 +1,5 @@
 # Image Resizer
-![Image Resizer](http://assets.stickpng.com/images/580b57fbd9996e24bc43bb61.png?size=300&ext=jpg)
+![Image Resizer](http://www.pngplay.com/wp-content/uploads/3/Colibri-Transparentes-PNG.png?size=300&ext=jpg)
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/Mazzya/image-resizer/blob/main/CHANGELOG.md) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mazzya/image-resizer?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/mazzya/image-resizer?style=for-the-badge)
 
