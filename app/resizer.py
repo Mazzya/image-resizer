@@ -136,4 +136,3 @@ def verifyDirectory():
 
 if __name__ == "__main__":
     Menu()
-    #verifyDirectory()
