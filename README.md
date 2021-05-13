@@ -4,7 +4,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/Mazzya/image-resizer/blob/main/CHANGELOG.md) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mazzya/image-resizer?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/mazzya/image-resizer?style=for-the-badge)
 
 Image Resizer it is a script that allows you to quickly resize images of all kinds and without installing practically anything.
-This script uses the pillow library which is a fork of the famous Python Image Library project to do all the magic!
+This script uses the [pillow library](https://github.com/python-pillow/Pillow/tree/e0e353c0ef7516979a9aedce3792596649ce4433) which is a fork of the famous Python Image Library project to do all the magic!
 ### How to resize images ?
 To run this script you need to install Python and the PIL library (Python Image Library) :
 * [Python](https://www.python.org/downloads/)
