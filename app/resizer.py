@@ -27,7 +27,7 @@ BANNER = """
                                     (((###%# %.#                                
                                    (((##                                            
                                  ((/((((   Developed by Mazzya                                      
-                               /##/((((   Version 1.0.0                                      
+                               /##/((((   Version 1.1.0                                      
                               #(#/((#(   Github: https://github.com/Mazzya                                     
                              #/#//(#/   mazzya.tk                                      
                              */ (/ */                                           
@@ -87,6 +87,11 @@ def resizeImage(img, width, height, extension):
       verifyDirectory()
       final_image = image_name + '.' + extension
       newImage = newImage.save(f"images/{final_image}")
+      path = os.path.join(os.getcwd(), "images", final_image)
+      print(f"""
+      The image has been successfully resized.
+      Image path : {path}
+      """)
 
 def resizeImageAR(img, width, height, extension):
       """ This function resizes an image while maintaining the aspect ratio """
@@ -96,6 +101,11 @@ def resizeImageAR(img, width, height, extension):
       verifyDirectory()
       final_image = image_name + '.' + extension
       newImage = image.save(f"images/{final_image}")
+      path = os.path.join(os.getcwd(), "images", final_image)
+      print(f"""
+      The image has been successfully resized.
+      Image path : {path}
+      """)
 
 def imageExtension():
       """ This function allows user to choose an extension for the new image """
