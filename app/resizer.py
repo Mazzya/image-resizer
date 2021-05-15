@@ -87,10 +87,10 @@ def resizeImage(img, width, height, extension):
       verifyDirectory()
       final_image = image_name + '.' + extension
       newImage = newImage.save(f"images/{final_image}")
-      ruta = os.path.join(os.getcwd(), "images", final_image)
+      path = os.path.join(os.getcwd(), "images", final_image)
       print(f"""
       The image has been successfully resized.
-      Image path : {ruta}
+      Image path : {path}
       """)
 
 def resizeImageAR(img, width, height, extension):
@@ -101,10 +101,10 @@ def resizeImageAR(img, width, height, extension):
       verifyDirectory()
       final_image = image_name + '.' + extension
       newImage = image.save(f"images/{final_image}")
-      ruta = os.path.join(os.getcwd(), "images", final_image)
+      path = os.path.join(os.getcwd(), "images", final_image)
       print(f"""
       The image has been successfully resized.
-      Image path : {ruta}
+      Image path : {path}
       """)
 
 def imageExtension():
