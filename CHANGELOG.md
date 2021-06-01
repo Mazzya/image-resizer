@@ -1,3 +1,10 @@
+## v1.1.1 - June 01, 2021
+**Added:**
+- Type annotations for the arguments of the functions and the functions themselves. The goal is to make the code easier to understand.
+- Version control variable
+
+**Changed:**
+- The functions and variables have been adapted to PEP 8
 ## v1.1.0 - May 15, 2021
 **Added:**
 - Success message when resizing an image
