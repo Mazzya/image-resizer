@@ -15,7 +15,7 @@ pip install PIL
 ```
 To run the script, type this command in the console :
 ```
-python resizer.py
+$ python resizer.py
 ```
 When the script runs, it will ask you for the path of the image you want to resize
 ```
