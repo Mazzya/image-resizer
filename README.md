@@ -49,3 +49,6 @@ Finally, write the name you want to give the new image
 Image name:
 ```
 The resized images are stored in a directory called images that is automatically created in the same directory where the script is located.
+
+#### Discord Server
+We have a discord server in case you have any questions or want to be informed about the project news. Do not hesitate to [join us](https://discord.gg/mZF9ywQzdg), we are waiting for you.
